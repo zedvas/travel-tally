@@ -1,30 +1,24 @@
+
 # HoliDough
+[Front-end](https://github.com/zedvas/travel-tally) |
+[Back-end](https://github.com/zedvas/travel-tally-back-endhttps://github.com/zedvas/travel-tally-back-end) |
+[Live demo](https://holidough.uk/)
 
-Welcome to **HoliDough**, designed by developed by [Sacha](https://github.com/sacha1995), [Jack](https://github.com/jack-berry), [Zahra](https://github.com/zedvas), and [Manzi](https://github.com/manzi9).
+HoliDough is a full-stack holiday budgeting application designed to help users manage, track, and forecast their expenses on the go. With an intuitive UI and real-time data visualization through Chart.js, users can easily gain insights into their financial habits while travelling allowing them to stay in budget. The app also features a responsive design and interactive animations using GSAP and Framer Motion.
 
-Holigouh is designed to help you plan, budget, and schedule your holidays with ease!
-
-## Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Features
-
-- Bill Splitting
-- Currency Conversion
-- Easy visuals to understand your budget
-- Day by day scheduling
-
+With HoliDough, you can add trips, set your budget, and track expenses—all in one place. Easily outline your travel plans, and HoliDough will break down your budget into sub-totals, giving you clear insights into where your money is going.
 ## Tech Stack
 
-- React
-- Redux
-- CSS Grid
+React, Redux, React Router, React Cropper, React Toastify, React Webcam, Material UI, Joi, SASS, Local Storage, GSAP, Framer Motion, Chart.js, Day.js
+## Features
+
+- Add trip/s with dates, budgets and budget breakdowns into categories
+- Record past, present and predicted expenses with support to edit and delete expenses
+- Option to add expense in any currency
+- Support for multi-day expenses
+- Support for tracking expenses split with friends and 'mark as paid' feature
+- Real-time graphical display of expenses and budget categories
+## Getting Started
 
 ## Installation
 
@@ -33,7 +27,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/russell-gh/travel-tally.git
+   git clone https://github.com/zedvas/travel-tally
    ```
 
 2. **Navigate to the project directory:**
@@ -63,17 +57,9 @@ In your terminal, you should see localhost URL (pictured below). Hold Ctrl (or C
 `http://localhost:5173/`
 
 This will then open the app in your browser.
+## Authors
 
-## Contributing
-
-Contributions are welcome! If you have any ideas or suggestions, please open an issue or submit a pull request.
-
-1. Fork the repository.
-2. Create a new branch (git checkout -b feature-branch).
-3. Commit your changes (git commit -m 'Add some feature').
-4. Push to the branch (git push origin feature-branch).
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License
+- [Zahra Vasanji](https://github.com/zedvas)
+- [Sacha Uijlen](https://github.com/sacha1995)
+- [Manzi Bitega](https://github.com/manzi9)
+- [Jack Berry](https://github.com/jack-berry)
