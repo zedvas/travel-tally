@@ -1,7 +1,7 @@
 
 # HoliDough
 [Front-end](https://github.com/zedvas/travel-tally) |
-[Back-end](https://github.com/zedvas/travel-tally-back-endhttps://github.com/zedvas/travel-tally-back-end) |
+[Back-end](https://github.com/zedvas/travel-tally-back-end) |
 [Live demo](https://holidough.uk/)
 
 HoliDough is a full-stack holiday budgeting application designed to help users manage, track, and forecast their expenses on the go. With an intuitive UI and real-time data visualization through Chart.js, users can easily gain insights into their financial habits while travelling allowing them to stay in budget. The app also features a responsive design and interactive animations using GSAP and Framer Motion.
